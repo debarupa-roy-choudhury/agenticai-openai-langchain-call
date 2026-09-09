@@ -12,5 +12,7 @@ Agentic AI Engineering with Python: Open AI + Langchain Call
 │       ├── pyproject.toml            # Dependencies (managed with uv)
 │       ├── uv.lock                   # Locked versions, same setup as class
 │       └── .env                      # Your own API key
+│
+└── 📄 README.md
 
 ```
